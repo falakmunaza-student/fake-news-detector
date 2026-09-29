@@ -1,2 +1,2 @@
-# falak-sds-project-2219
+# fake-news-detector
 This is my first Git Repository.
